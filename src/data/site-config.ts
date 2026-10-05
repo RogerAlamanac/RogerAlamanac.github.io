@@ -3,17 +3,17 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://rogeralamanac.github.io',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Roger Alamañac Llena'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Roger Alamañac Llena — Game Developer',
+    subtitle: 'Desarrollador de videojuegos · España',
+    description: 'Portfolio de Roger Alamañac Llena, desarrollador de videojuegos.',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Portfolio de Roger Alamañac Llena, desarrollador de videojuegos'
     },
     headerNavLinks: [
         {
